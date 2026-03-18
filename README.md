@@ -1,10 +1,6 @@
 # 🥿 PVB Shop — Website Bán Giày Trực Tuyến
 
 <p align="center">
-  <img src="public/images1/logo.png" alt="PVB Shop Logo" width="180"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Laravel-8.x-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-8.0+-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
